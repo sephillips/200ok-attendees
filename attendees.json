@@ -58,7 +58,7 @@
           "github" : "sephillips",
           "twitter": "@SSADMA",
         }
-    }
+    },
     { "type" : "Feature",
       "geometry" : {
         "type" : "Point",
